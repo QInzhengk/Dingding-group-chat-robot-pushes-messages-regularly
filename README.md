@@ -8,7 +8,7 @@
 
 ## 📒 简介
 
-> :smiley: 通过GitHub Actions给顶顶群聊定时推送消息（Python）。
+> :smiley: 通过GitHub Actions给钉钉群聊定时推送消息（Python）。
 
 ## 🤝 [博客](https://github.com/qzkq/qzkq.github.io)
 
